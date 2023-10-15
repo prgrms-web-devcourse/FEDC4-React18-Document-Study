@@ -33,7 +33,6 @@ value를 전달할 때는 전달된 value를 업데이트 하는 onChange 핸들
 
 `<textarea>`가 비제어 컴포넌트인 경우에는, 대신 defaultValue를 전달할 수 있습니다:
 
-These `<textarea>` props are relevant both for uncontrolled and controlled text areas:
 다음 `<textarea>` prop들은 비제어 및 제어 컴포넌트 모두에 영향을 미칩니다:
 
 autoComplete: 'on' 혹은 'off'. 자동 완성 동작을 지정합니다.
